@@ -2,7 +2,7 @@
 
 ## What is this repo about?
 
-Firmware development environment used at Easy IoT. The target dev board in this example is B-L475E-IOT01A (https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html). This dev env can be easily tailored to work with other STM32 MCUs.
+Firmware development environment used at Easy IoT. The target dev board in this example is B-L475E-IOT01A (https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html). This dev env can be easily tailored to work with other MCUs.
 
 This dev env leverages some very powerful tools, including:
 
